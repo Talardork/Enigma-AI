@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Enigma Chatbot</string>
+    <string name="top_text">Enigma AI</string>
+    <string name="splash_text">How may I help \nyou today!</string>
+    <string name="get_started">Get Started</string>
+    <string name="chat_with_bot">Chat with Bot</string>
+    <string name="search_image">Search by Image</string>
+    <string name="ask_ai">Ask me anything...</string>
+
+</resources>

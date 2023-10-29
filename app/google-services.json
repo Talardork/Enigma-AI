@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "372994522575",
+    "project_id": "chatbot-efb37",
+    "storage_bucket": "chatbot-efb37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372994522575:android:785f5e9894b9541c6966ba",
+        "android_client_info": {
+          "package_name": "com.ann.enigmachatbot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbYkZaol-J7OIA2PPHC1ZLIRTPqkRzN0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372994522575:android:5de3b7643026e98d6966ba",
+        "android_client_info": {
+          "package_name": "com.ann.enignachatbot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbYkZaol-J7OIA2PPHC1ZLIRTPqkRzN0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
